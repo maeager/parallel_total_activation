@@ -1,0 +1,9 @@
+
+* Total activation parellelised
+
+
+Code optimised from paper:
+
+F. I. Karahanoglu, C. C. Gaudes, F. Lazeyras, D. Van De Ville 
+ Total Activation: FMRI Deconvolution through Spatio-Temporal Regularization
+ Neuroimage
