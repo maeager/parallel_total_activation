@@ -4,7 +4,7 @@
 % - (C) Michael Eager (michael.eager@monash,edu)
 %
 %%
-addpath(genpath('../singleparTotalActivation')); % change the path
+addpath(genpath('../TotalActivation')); % change the path
 
 %% load the parameters, results and output used in analysis 
 load ../Results/OUTS_BLOCK_LamCoef12_STRSPR_Lam5_rfMRI_REST1_LR_11-Oct-2013.mat

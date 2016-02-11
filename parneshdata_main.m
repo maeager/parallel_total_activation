@@ -8,7 +8,7 @@
 
 
 % add TA path
-addpath(genpath('../singleparTotalActivation')); % change the path
+addpath(genpath('../TotalActivation')); % change the path
 
 %% Enter the inputs
 

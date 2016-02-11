@@ -5,10 +5,10 @@ function fastActivation(data_path)
 % version 1.0, December 2012
 % by Isik Karahanoglu 
 %
+% Modifications by Michael Eager (michael.eager@monash.edu)
 
 
 % add TA path
-addpath(genpath('../singleparTotalActivation')); % change the path
 addpath(genpath(pwd));
 %% Enter the inputs
 

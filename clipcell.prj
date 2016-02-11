@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deployment-project>
-  <configuration target="target.matlab.ecoder" target-name="MATLAB Embedded Coder Target" name="clipcell" location="/gpfs/M2Home/projects/Monash016/TA/singleparTotalActivation" file="/gpfs/M2Home/projects/Monash016/TA/singleparTotalActivation/clipcell.prj">
+  <configuration target="target.matlab.ecoder" target-name="MATLAB Embedded Coder Target" name="clipcell" location="/gpfs/M2Home/projects/Monash016/eagerm/TotalActivation" file="/gpfs/M2Home/projects/Monash016/eagerm/TotalActivation/clipcell.prj">
     <param.mex.general.TargetLang>option.general.TargetLang.C</param.mex.general.TargetLang>
     <param.mex.general.IntegrityChecks>true</param.mex.general.IntegrityChecks>
     <param.mex.general.ResponsivenessChecks>true</param.mex.general.ResponsivenessChecks>
